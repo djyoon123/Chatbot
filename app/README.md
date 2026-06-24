@@ -96,7 +96,7 @@ py server.py
 ```powershell
 py build_demo.py
 ```
-- `../인사관리_FAQ챗봇_공유.html` 1개 파일이 생성됩니다.
+- `../index.html` 1개 파일이 생성됩니다 (더블클릭 실행 또는 GitHub Pages 배포용).
 - 서버·설치 없이 더블클릭으로 열리는 자체완결 데모 (FAQ·규정 임베드).
 
 ---

@@ -283,7 +283,7 @@ py retriever.py "법정 근로시간"                    # 검색 단독 점검
 | --- | --- |
 | `app/*.py` | 챗봇 코드 (OpenAI 연동) |
 | `app/faq.json` | FAQ 데이터셋 |
-| `인사관리_FAQ챗봇_공유.html` | 팀원 공유용 단일 HTML 데모 |
+| `index.html` | 팀원 공유용 단일 HTML 데모 (더블클릭 / GitHub Pages 배포) |
 | `SPEC_v2.md` | 본 명세 (v1 SPEC.md 대체) |
 
 ---
