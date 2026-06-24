@@ -1,0 +1,10 @@
+# 텍스트 파일 줄바꿈을 저장소에서 LF로 정규화 (OS 간 일관성)
+* text=auto
+
+# 바이너리 — 정규화 금지
+*.exe binary
+*.msi binary
+*.docx binary
+*.png binary
+*.jpg binary
+*.ico binary
